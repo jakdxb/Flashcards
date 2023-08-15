@@ -1,0 +1,5 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/button_style1" /> <!-- Tło przycisku -->
+    <item
+        android:drawable="@drawable/ic_baseline_person_24" /> <!-- Twoja grafika -->
+</layer-list>
